@@ -1,0 +1,46 @@
+{
+    "Templates": [
+        {
+            "id" : 1,
+            "image" : "https://i.ibb.co/DfPPBBf/adaeeb19830de8d447708587c3d5ccee-Expires-1713139200-Key-Pair-Id-APKAQ4-GOSFWCVNEHN3-O4-Signature-Q0o.png",
+            "cardName" : "Foodly Restaurent App Template",
+            "user" : 28,
+            "download" : 546
+        },
+        {
+            "id" : 2,
+            "image" : "https://i.ibb.co/rcB43TY/fda3b9fdc757c24f3999748ea37c2b41-Expires-1713139200-Key-Pair-Id-APKAQ4-GOSFWCVNEHN3-O4-Signature-J-0.png",
+            "cardName" : "Flutter Animation Template",
+            "user" : 28,
+            "download" : 546
+        },
+        {
+            "id" : 3,
+            "image" : "https://i.ibb.co/y0n5gFL/92e4d660f54b4c73a174f7778e217b89-Expires-1713139200-Key-Pair-Id-APKAQ4-GOSFWCVNEHN3-O4-Signature-LGU.png",
+            "cardName" : "Flutter Animation Template",
+            "user" : 28,
+            "download" : 546
+        },
+        {
+            "id" : 4,
+            "image" : "https://i.ibb.co/m40kztL/501213ce9d547fae374621df59909a6f-Expires-1713139200-Key-Pair-Id-APKAQ4-GOSFWCVNEHN3-O4-Signature-m1u.png",
+            "cardName" : "Flutter Animation Template",
+            "user" : 28,
+            "download" : 546
+        },
+        {
+            "id" : 5,
+            "image" : "https://i.ibb.co/2gFKmVb/f41fc9ad92ecb06bed0779c929b66f7c-Expires-1713139200-Key-Pair-Id-APKAQ4-GOSFWCVNEHN3-O4-Signature-EL1.png",
+            "cardName" : "Flutter Animation Template",
+            "user" : 28,
+            "download" : 546
+        },
+        {
+            "id" : 6,
+            "image" : "https://i.ibb.co/gjL26zH/f363ea5ec016c3f145e1c817b7c27573-Expires-1713139200-Key-Pair-Id-APKAQ4-GOSFWCVNEHN3-O4-Signature-SVR.png",
+            "cardName" : "Flutter Animation Template",
+            "user" : 28,
+            "download" : 546
+        }
+    ]
+}
